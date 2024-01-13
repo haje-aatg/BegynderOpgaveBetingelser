@@ -1,4 +1,8 @@
-//I dette eksempel bevæger cirklen sig fra venstre mod højre på skærmen. Når den når kanten af vinduet, ændrer den retning og fortsætter i den modsatte retning. Eleverne kan eksperimentere med værdierne for at ændre hastigheden, størrelsen på cirklen eller tilføje y-bevægelse for at gøre øvelsen mere interessant.
+/*
+I dette eksempel bevæger cirklen sig vertikalt på skærmen. 
+Når den når kanten af vinduet, ændrer den retning og fortsætter i den modsatte retning. 
+Der kan eksperimentere med værdierne for at ændre hastigheden, størrelsen på cirklen eller tilføje y-bevægelse for at gøre øvelsen mere interessant.
+*/
 
 int posX = 100;  // Placering x. Værdien er startposition
 int posY = 100;  // Placering y. Værdien er startposition
